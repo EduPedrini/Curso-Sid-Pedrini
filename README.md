@@ -30,4 +30,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito por Eduardo Luiz Pedrini 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo Luiz Pedrini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-luiz-pedrini-93b75b36/)](https://www.linkedin.com/in/eduardo-luiz-pedrini-93b75b36/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-luiz-pedrini-93b75b36/)](https://www.linkedin.com/in/eduardo-luiz-pedrini-93b75b36/) 
